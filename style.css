@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background: #222831;
+    color: #eeeeee;
+}
+
+header {
+    padding: 20px;
+    background: #393e46;
+}
+
+header h1 {
+    margin-bottom: 10px;
+}
+
+header img {
+    width: 120px;
+}
+
+main {
+    padding: 20px;
+}
+
+.details ul {
+    list-style: none;
+    padding: 0;
+}
+
+.details li {
+    margin: 5px 0;
+}
+
+.register button {
+    padding: 15px 30px;
+    background: #00adb5;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.register button:hover {
+    background: #007d8a;
+}
+
+footer {
+    padding: 10px;
+    background: #222831;
+}
